@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Eu sou de Salvador - BA<br><br>- 🔭 Freelancer<br>- 📚 Estudando Análise de Dados<br>- ⚡ Apaixonado por dados</p>
+<p align="left">Eu sou estudante de Ciência da Computação, e meu foco é na análise e ciência de dados!<br><br>- 🔭 Freelancer<br>- 📚 Estudando Análise de Dados<br>- ⚡ Apaixonado por dados</p>
 
 ###
 
